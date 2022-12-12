@@ -1,0 +1,79 @@
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe.config
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.pdb
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.AssemblyReference.cache
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.BransPaneli.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Duyurular.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.EtutListesi.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Form1.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciBilgiDuzenle.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciEkrani.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciGiris.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenBilgiDuzenle.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenEkrani.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenGiris.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenPaneli.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Properties.Resources.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikEkrani.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikGiris.resources
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.GenerateResource.cache
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.CoreCompileInputs.cache
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.exe
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.pdb
+C:\Users\unalh\source\repos\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciPaneli.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe.config
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.pdb
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csprojAssemblyReference.cache
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.BransPaneli.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Duyurular.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.EtutListesi.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Form1.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciBilgiDuzenle.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciEkrani.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciGiris.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciPaneli.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenBilgiDuzenle.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenEkrani.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenGiris.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenPaneli.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Properties.Resources.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikEkrani.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikGiris.resources
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.GenerateResource.cache
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.CoreCompileInputs.cache
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.exe
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.pdb
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe.manifest
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.application
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.exe.manifest
+C:\Users\KEREM ÇALIŞKAN\Desktop\ntpson\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.application
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe.config
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe.manifest
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.application
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.exe
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\bin\Debug\Etut_Automation.pdb
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.AssemblyReference.cache
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.SuggestedBindingRedirects.cache
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.BransPaneli.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Duyurular.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.EtutListesi.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Form1.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciBilgiDuzenle.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciEkrani.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciGiris.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgrenciPaneli.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenBilgiDuzenle.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenEkrani.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenGiris.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.OgretmenPaneli.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.Properties.Resources.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikEkrani.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.RehberlikGiris.resources
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.GenerateResource.cache
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.csproj.CoreCompileInputs.cache
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.exe.manifest
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.application
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.exe
+C:\Users\unalh\Desktop\172211059_ÜnalHazar\Etüt Otomasyonu\Etut_Automation\Etut_Automation\obj\Debug\Etut_Automation.pdb
